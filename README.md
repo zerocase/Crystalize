@@ -4,6 +4,9 @@
 
 Crystalize is an open-source Embedding & Clustering 3D visualization tool. It provides a GUI that makes it easy to parse and clean up jsonlines formatted logs for visual exploration, allowing users to see the effectiveness of embeddings and clustering.
 
+https://github.com/user-attachments/assets/f83daad3-15b3-4c87-b61e-f2239ddd0511
+
+
 ## Features
 
 
