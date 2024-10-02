@@ -1,6 +1,6 @@
 # Crystalize
 
-  
+<img src="Crystalize.png" alt="Crystalize Logo" width="200"/>
 
 Crystalize is an open-source Embedding & Clustering 3D visualization tool. It provides a GUI that makes it easy to parse and clean up jsonlines formatted logs for visual exploration, allowing users to see the effectiveness of embeddings and clustering.
 
