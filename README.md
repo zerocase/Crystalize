@@ -39,13 +39,13 @@ Crystalize is an open-source Embedding & Clustering 3D visualization tool. It pr
 
 ```bash
 
-git clone https://github.com/your-username/crystalize.git
+git clone https://github.com/zerocase/Crystalize.git
 
 ```
 
 ```bash
 
-cd crystalize
+cd Crystalize
 
 ```
 
