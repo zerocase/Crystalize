@@ -136,6 +136,10 @@ Crystalize requires Python 3.12.6 and the following main dependencies:
 
 For a full list of dependencies, see `requirements.txt`.
 
+## References
+
+[ClusterLog: Clustering Logs for Effective
+Log-based Anomaly Detection](https://arxiv.org/pdf/2301.07846)
 ## License
 
 This project is open-source and available under the [GNU General Public License v2.0](LICENSE).
